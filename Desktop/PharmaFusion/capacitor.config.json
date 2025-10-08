@@ -1,0 +1,8 @@
+{
+  "appId": "com.mutanda.pharmafusion",
+  "appName": "PharmaFusion",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}

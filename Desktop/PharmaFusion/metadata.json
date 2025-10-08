@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFusion",
+  "description": "A Progressive Web App (PWA) that provides a detailed encyclopedia of medications, designed for offline use with a modern, futuristic interface. Created by Dr. Mutanda DB.",
+  "requestFramePermissions": []
+}
