@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hjasonsendwe.cd/sitemap.xml
+
+# Dossiers à ne pas indexer
+Disallow: /css/
+Disallow: /js/
+Disallow: /plugins/
+Disallow: /images/
+
+# Fichiers spécifiques à ne pas indexer
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.map$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /*.webp$
+Disallow: /*.svg$
+Disallow: /*.ico$
+
+# Pages de développement/test
+Disallow: /confirmation.html
+
+# Crawl-delay pour éviter la surcharge
+Crawl-delay: 1
